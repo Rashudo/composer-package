@@ -1,7 +1,7 @@
 {
   "name": "sgaponov/hello-world",
   "description": "Демонстрационный пакет в рамках обучения",
-  "minimum-stability": "stable",
+  "version": "1.0.0",
   "license": "proprietary",
   "authors": [
     {
